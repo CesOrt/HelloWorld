@@ -1,0 +1,3 @@
+Okairinasai
+
+print("nel")
