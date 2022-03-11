@@ -1,3 +1,3 @@
-Okairinasai
+x="Okairinasai"
 
-print("nel")
+print("nel "+x)
